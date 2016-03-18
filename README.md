@@ -1,3 +1,3 @@
 #My Blog
 
-[http://smallyard.cn](http://smallyard.cn)
+[http://knuthdai.github.com/knuth](http://knuthdai.github.com/knuth)
